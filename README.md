@@ -4,7 +4,6 @@
 
 **Mood Arcade** is an interactive web app that helps you discover your current emotional state through a series of fun and relaxing games. Play with words, colors, drawings, and stories to get a personalized mood insight and gentle recommendations.
 
-![App Screenshot](screenshot.png) <!-- Optional: Add a screenshot of your app -->
 
 ## ✨ Features
 
